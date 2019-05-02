@@ -8,6 +8,7 @@ a. Number guessed is more than original number
 b. Number guessed is less than original number
 c. Number guessed matches the original number*/
 public class Q8GuessNum
+
 {
     public static void main ( String[] args)
     {
